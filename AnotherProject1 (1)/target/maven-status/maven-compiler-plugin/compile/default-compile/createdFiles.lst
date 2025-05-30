@@ -1,0 +1,12 @@
+com\example\model\Admin.class
+com\example\Main.class
+com\example\MyBot.class
+com\example\util\Constant.class
+com\example\service\AirtableService.class
+com\example\model\UserRegistrationStep.class
+com\example\CommandHandler.class
+com\example\model\Registration.class
+com\example\CommandHandler$1.class
+com\example\model\Event.class
+com\example\model\User.class
+com\example\model\UserRegistrationState.class
